@@ -1,26 +1,34 @@
-# 你好，我是 [你的名字/昵称] 👋
+# 你好，我是 66CF 👋
 
-一名对 **人工智能** 和 **ACG 文化** 充满热情的开发者。
+一名热爱技术与ACG文化的开发者。
 
-我坚信技术是创造新奇体验的强大工具，尤其是在 AI 生成内容 (AIGC) 领域。我的 GitHub 是我学习、探索和分享的个人空间。
+- 🔭 我正在探索：AI大模型应用、AIGC 和有趣的前沿技术。
+- 🌱 我热衷于：发现和分享能提升生产力的开发工具。
+- 💬 欢迎交流：任何关于代码、动漫、游戏或者AI的想法！
 
----
+<br/>
 
-### 🌱 我在关注 (My Focus)
+### 📬 如何找到我
 
-*   **大型语言模型 (LLM)**: 微调、应用开发和 Prompt Engineering。
-*   **多媒体处理**: 语音识别 (Whisper)、TTS、图像生成 (Fooocus)。
-*   **开发工具**: 热衷于尝试和学习能提升效率的各类工具。
+<p>
+  <a href="https://66cf.icu" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-66CF.icu-blue?style=for-the-badge&logo=blogger" alt="Blog">
+  </a>
+  <a href="https://space.bilibili.com/621504283" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili">
+  </a>
+  <a href="mailto:3202714166@qq.com">
+    <img src="https://img.shields.io/badge/Email-QQ-green?style=for-the-badge&logo=tencent-qq" alt="Email">
+  </a>
+</p>
 
-### 💬 找到我 (Connect with Me)
+<br/>
 
-- **博客**: [66cf.icu](https://66cf.icu/)
-- **哔哩哔哩**: [前往我的B站](https://space.bilibili.com/621504283)
-- **Email**: [3202714166@qq.com](mailto:3202714166@qq.com)
-
----
+### 📊 我的 GitHub 统计
 
 <p align="center">
-  <!-- 将 [YOUR_GITHUB_USERNAME] 替换为你的 GitHub 用户名 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=buefy&locale=cn" alt="GitHub Stats" />
+  <a href="https://github.com/66CF">
+    <img src="https://github-readme-stats.vercel.app/api?username=66CF&show_icons=true&theme=radical" alt="66CF's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66CF&layout=compact&theme=radical" alt="Top Langs">
+  </a>
 </p>
