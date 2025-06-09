@@ -1,64 +1,26 @@
-## Hi there 👋
+# 你好，我是 [你的名字/昵称] 👋
 
-<!--
-**66CF/66CF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名对 **人工智能** 和 **ACG 文化** 充满热情的开发者。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-  <a href="https://66cf.icu/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hey%2C+There!+%F0%9F%91%8B;I'm+A+Developer...;...and+an+Otaku.;Welcome+to+My+Digital+World." alt="Typing SVG" />
-  </a>
-</h1>
-
-<div align="center">
-  <a href="https://66cf.icu/">
-    <img src="https://img.shields.io/badge/博客-66cf.icu-blue?style=for-the-badge&logo=About.me" alt="Blog">
-  </a>
-  <a href="https://space.bilibili.com/621504283">
-    <img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili">
-  </a>
-  <a href="mailto:3202714166@qq.com">
-    <img src="https://img.shields.io/badge/Email-联系我-brightgreen?style=for-the-badge&logo=Nextcloud" alt="Email">
-  </a>
-</div>
+我坚信技术是创造新奇体验的强大工具，尤其是在 AI 生成内容 (AIGC) 领域。我的 GitHub 是我学习、探索和分享的个人空间。
 
 ---
 
-### 🚀 关于我 (About Me)
-- 🤔  热衷于探索 **AI 大语言模型 (LLM)** 与 **AIGC** 的无限可能。
-- 🎨  一个沉浸在 **ACG (动漫、漫画、游戏)** 世界的深度爱好者。
-- 💻  日常在代码与各种开发工具之间穿梭，享受创造的乐趣。
-- 💬  欢迎与我交流任何关于技术、AI 或 ACG 的话题！
+### 🌱 我在关注 (My Focus)
 
-### 🛠️ 技术栈 & 工具 (Tech Stack & Tools)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,tensorflow,docker,git,vscode,blender,ae" />
-  </a>
-</p>
+*   **大型语言模型 (LLM)**: 微调、应用开发和 Prompt Engineering。
+*   **多媒体处理**: 语音识别 (Whisper)、TTS、图像生成 (Fooocus)。
+*   **开发工具**: 热衷于尝试和学习能提升效率的各类工具。
 
-### 📈 GitHub 统计 (My Stats)
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- 将 [YOUR_GITHUB_USERNAME] 替换为你的 GitHub 用户名 -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&locale=cn&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- 将 [YOUR_GITHUB_USERNAME] 替换为你的 GitHub 用户名 -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&locale=cn&theme=radical" alt="Top Langs" />
-  </a>
-</p>
+### 💬 找到我 (Connect with Me)
+
+- **博客**: [66cf.icu](https://66cf.icu/)
+- **哔哩哔哩**: [前往我的B站](https://space.bilibili.com/621504283)
+- **Email**: [3202714166@qq.com](mailto:3202714166@qq.com)
+
+---
 
 <p align="center">
-  <em> "在代码的虚拟世界与幻想的二次元中，寻找真实的感动。" </em>
+  <!-- 将 [YOUR_GITHUB_USERNAME] 替换为你的 GitHub 用户名 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=buefy&locale=cn" alt="GitHub Stats" />
 </p>
